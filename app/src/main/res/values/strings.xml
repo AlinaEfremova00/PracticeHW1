@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Гонки</string>
+    <string name="enter_number">Введите номер</string>
+    <string name="start">Начать</string>
+</resources>
